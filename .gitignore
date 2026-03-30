@@ -1,6 +1,7 @@
 .DS_Store
 .pytest_cache/
 __pycache__/
+.customer_support_resolution/
 .coverage
 htmlcov/
 .mypy_cache/
