@@ -9,8 +9,8 @@
 
 该文档与以下文件配套：
 
-- `customer-support-resolution-orchestrator-tech-spec.md`
-- `customer-support-resolution-orchestrator-architecture.md`
+- [customer-support-resolution-orchestrator-tech-spec.md](./customer-support-resolution-orchestrator-tech-spec.md)
+- [customer-support-resolution-orchestrator-architecture.md](../architecture/customer-support-resolution-orchestrator-architecture.md)
 
 ## 2. 数据库设计原则
 

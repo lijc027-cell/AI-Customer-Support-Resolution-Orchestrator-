@@ -12,9 +12,9 @@
 
 配套文档：
 
-- `customer-support-resolution-orchestrator-tech-spec.md`
-- `customer-support-resolution-orchestrator-architecture.md`
-- `customer-support-resolution-data-api-design.md`
+- [customer-support-resolution-orchestrator-tech-spec.md](../design/customer-support-resolution-orchestrator-tech-spec.md)
+- [customer-support-resolution-orchestrator-architecture.md](../architecture/customer-support-resolution-orchestrator-architecture.md)
+- [customer-support-resolution-data-api-design.md](../design/customer-support-resolution-data-api-design.md)
 
 ## 2. 项目拆解原则
 
